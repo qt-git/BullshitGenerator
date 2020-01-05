@@ -1,5 +1,6 @@
+# 本页为备份内容，最新项目见：https://github.com/qtgt/SciGen
 # 科学报告语料生成器（原：娱乐报告生成器）
-# QtGt's SCI Generator for Houseplay
+# QtGt's SCI Generator for Houreplay
 
 项目地址 https://qtgt.github.io/SciGen/
 
